@@ -14,6 +14,7 @@
         <ul>
             <li>Each trip's telematic data is given an average value</li>
             <li>Euclidean Distance is calculated based on the following formula: √( (x1-x2)^2 + (y1-y2)^2 + ... ), where property 1 and property 2 refer to each property of the telematric data.</li>
+            <li>Properties such as Accuracy, Bearing and time taken are assumed to be unimportant and not taken into account since we want to look at how the driver's car moves.</li>
         </ul>
     </li>
     <li>If the highest similarity is above a threshold, it is deemed to be similar to a dangerous trip and thus has a high probability of being dangersous as well</li>
