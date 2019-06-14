@@ -14,12 +14,12 @@
 </ol>
 
 # How to use script
-<ul>
+<ol>
     <li>Scipt should be placed in the <b>same directory</b> as the training data and raw data.</li>
     <li>Training Data should be placed in a <b>"Training File"</b> folder and raw data placed in a <b>"Raw Data"</b> folder.</li>
     <li>All cells in the Script Jupyter Notebook should be run</li>
     <li>Final Output will be placed in the same directory </li>
-</ul>
+</ol>
 
 # Conclusion
 <ul>
